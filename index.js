@@ -16,3 +16,7 @@ function fuzzyMatch(drivers, firstLetter){
     return driverName.slice(0, wholeOfName) === firstLetter;
   })
 }
+
+function matchName(driver, name){
+  
+}
