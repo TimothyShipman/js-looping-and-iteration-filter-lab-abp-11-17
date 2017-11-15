@@ -9,3 +9,7 @@ function findMatching(drivers, name){
   })
   return matchingDrivers;
 }
+
+function fuzzyMatch(drivers, name){
+  
+}
